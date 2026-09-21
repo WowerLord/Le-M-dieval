@@ -1,2 +1,2 @@
-# Le-M-dieval
-Carte du Restaurant Le Médieval
+# Le-Médiéval
+Carte du Restaurant Le Médiéval
